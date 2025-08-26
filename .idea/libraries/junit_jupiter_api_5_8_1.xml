@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="junit-jupiter-api-5.8.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../junit-jupiter-api-5.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../junit-jupiter-engine-5.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../junit-platform-commons-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../junit-jupiter-params-5.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../junit-platform-engine-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../opentest4j-1.2.0.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/Test" />
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
